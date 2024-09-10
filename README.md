@@ -1,1 +1,1 @@
-# This is my First Project of Amazon Clone using HTML and CSS.
+# This is my first Project of Amazon Clone using HTML and CSS.
